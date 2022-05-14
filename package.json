@@ -16,9 +16,6 @@
     "url": "https://github.com/ken-matsui/eslint-config-next/issues"
   },
   "homepage": "https://github.com/ken-matsui/eslint-config-next#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "peerDependencies": {
     "@ken-matsui/eslint-config-js": ">= 0.1",
     "@ken-matsui/eslint-config-react": ">= 0.1",
